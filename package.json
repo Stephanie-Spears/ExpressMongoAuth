@@ -1,0 +1,16 @@
+{
+  "name": "treehouse-express-auth",
+  "version": "1.0.0",
+  "description": "An Express and MongoDB application for implementing user authentication and user authorization techniques",
+  "author": "Stephanie Spears",
+  "private": true,
+  "scripts": {
+    "start": "node ./app"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "pug": "^2.0.3"
+  },
+  "license": "MIT"
+}
